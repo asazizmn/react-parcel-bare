@@ -1,7 +1,7 @@
 {
   "name": "react-typescript-bare",
   "version": "1.0.0",
-  "description": "A bare bones React & TypeScript project created without any boostrapping tools (ie CRA)",
+  "description": "A bare bones React project base created without any boostrapping tools (ie CRA)",
   "dependencies": {
     "react": "^16.14.0",
     "react-dom": "^16.14.0"
