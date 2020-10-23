@@ -1,0 +1,17 @@
+{
+  "name": "react-typescript-bare",
+  "version": "1.0.0",
+  "description": "A bare bones React & TypeScript project created without any boostrapping tools (ie CRA)",
+  "dependencies": {
+    "react": "^16.14.0",
+    "react-dom": "^16.14.0"
+  },
+  "devDependencies": {
+    "parcel-bundler": "^1.12.4"
+  },
+  "scripts": {
+    "start": "parcel index.html"
+  },
+  "author": "S. Aziz",
+  "license": "ISC"
+}
